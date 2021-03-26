@@ -6,7 +6,8 @@
 
 * [Qué es](1tinkercad/tinkercad.md)
 * [Prorama de diseño](1tinkercad/diseño3d.md)
-  
+* [Simulació electrónica](1tinkercad/simulacionelectronica.md)
+
 ## Capítulo 2
 
 * [Apartado uno capítulo 2](capitulo-dos/README.md)
