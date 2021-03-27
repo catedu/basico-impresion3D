@@ -5,8 +5,9 @@
 ## TINKERCAD 1
 
 * [Qué es](1tinkercad/tinkercad.md)
-* [Prorama de diseño](1tinkercad/diseño3d.md)
-* [Simulació electrónica](1tinkercad/simulacionelectronica.md)
+* [Programa de diseño](1tinkercad/diseño3d.md)
+* [Simulación electrónica](1tinkercad/simulacionelectronica.md)
+* [Bloques de código](1tinkercad/codigo.md)
 
 ## Capítulo 2
 
