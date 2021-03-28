@@ -1,4 +1,4 @@
-# IMPRESIÓN BÁSICA EN 3D
+# IMPRESIÓN BÁSICA EN 3D CON TINKERCAD
 
 ![](/assets/resultado.jpg)
 

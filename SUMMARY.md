@@ -1,18 +1,18 @@
-# Summary
+# DISEÑO EN 3D CON TINKERCAD
 
 * [Introducción](README.md)
 
-## TINKERCAD 1
+## 1.-TINKERCAD 1
 
-* [Qué es](1tinkercad/tinkercad.md)
-* [Programa de diseño](1tinkercad/diseño3d.md)
-* [Simulación electrónica](1tinkercad/simulacionelectronica.md)
-* [Bloques de código](1tinkercad/codigo.md)
+* [1.1. Qué es](1tinkercad/tinkercad.md)
+* [1.2. Programa de diseño](1tinkercad/diseno.md)
+* [1.3 Simulación electrónica](1tinkercad/simulacionelectronica.md)
+* [1.4 Bloques de código](1tinkercad/codigo.md)
 
-## Capítulo 2
+## 2.- DISEÑO 3D
 
-* [Apartado uno capítulo 2](capitulo-dos/README.md)
-* [Apartado dos capítulo 2](capitulo-dos/apartado-uno-cap-dos.md)
+* [2.1 Ángulo de visión y encuadre](2diseno/diseno3d.md)
+*
 
 ---
 
