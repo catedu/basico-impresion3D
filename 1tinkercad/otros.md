@@ -7,15 +7,3 @@ Tinkercad está en pleno desarrollo, seguramente cuando veas estos apuntes, ha a
 ![](/assets/otros1.png)
 
 Puedes crear un portfolio que sea una unidad didáctica, añadiendo documentos, diseños 3D, código... como propuesta didáctica. Puedes ver ejemplos y utilizarlos aquí https://www.tinkercad.com/lessonplans o crear el tuyo propio.
-
-## Clases
-
-![](/assets/otros2.png)
-
-### Perfil profesor
-
-Si tus alumnos van a utilizar Tinkercad, puedes crear una clase o uni
-
-### Perfil estudiante
-
-O también si eres profesor, puedes unirte a una Clases
