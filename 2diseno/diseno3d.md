@@ -1,10 +1,10 @@
-# HERRAMIENTA DISEÑO TINKERCAD
+# ÁNGULO DE VISIÓN Y ENCUADRE.
 
-Es una herramienta online muy sencilla para crear objetos 3D con suma facilidad y una curva de aprendizaje muy rápida con resultados satisfactorios. Es la herramienta que hemos elegido para este curso :
+Una vez entrado en la herramienta de creación 3D nos encontramos con el siguiente **Plano de trabajo** :
 
 ![](/assets/diseño3D.jpg)
 
-Tiene un espacio de plano de trabajo con visión del objeto en 3D y que fácilmente se arrastran objetos y se visualizan tridimensionalmente de forma muy dinámica.
+Fácilmente se arrastran objetos y se visualizan tridimensionalmente de forma muy dinámica con perspectiva 3D por defecto, que no es la más adecuada en ocasiones, vamos a verlo:
 
 >**tip**
 >PRACTICA este ejercicio

@@ -1,6 +1,6 @@
-# Empecemos: Crea tu perfil
+# Empecemos: Crea tu perfil de profesor.
 
-Entramos en tinkercad.com y en Unete creamos una cuenta
+Entramos en tinkercad.com y en **Unete** creamos una cuenta
 
 ![](/assets/perfil1.png)
 
@@ -19,4 +19,12 @@ Luego sale un diálogo que tienes que aceptar las condiciones
 Y te da opción que te des de alta con varias opciones:
 
 * Con un correo electrónico y contraseña
-* Con un perfil de un servicio web Google, Microsoft, Apple, Facbook.
+* Con un perfil de un servicio web Google, Microsoft, Apple, Facebook.
+
+Aceptas las condiciones y ya esás registrado.
+
+# ¿Y los estudiantes?
+
+Los estudiantes pueden unirse a una clase que has creado, ver [clases](https://catedu.github.io/basico-impresion3D/1tinkercad/clases.html) **sin necesidad de registrarse** por lo tanto válido para menores de 16 años.
+
+Para mayores de 16 años, si tienen correo electrónico pueden abrir una cuenta personal e unirse a tus clases igualmente.
