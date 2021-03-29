@@ -5,7 +5,7 @@ No hay que ser paranoicos tapando la cámara web del portátil, pero lo cierto e
 ![](/assets/creando1.png)
 Fuente [Facebook](https://www.facebook.com/photo.php?fbid=10102910644965951&set=a.612287952871.2204760.4&type=3&theater)
 
-Luego como decía James Corney director del FBI, _si ves a alguien más inteligente que tú poniendo un trozo de cinta adhesiva sobre su cámara, yo no voy a ser menos._ Pero con cinta adhesiva se quedan restos de pegamento y cuando queremos usarla salimos bastante borrosos. Vamos a diseñar una tapa que nos facilite su apertura y cierre :
+Luego como decía James Corney director del FBI, _si ves a alguien más inteligente que tú poniendo un trozo de cinta adhesiva sobre su cámara ..._ Pero con cinta adhesiva se quedan restos de pegamento y cuando queremos usarla salimos bastante borrosos. Vamos a diseñar una tapa que nos facilite su apertura y cierre :
 
 ![](/assets/creando2.png)
 
@@ -49,3 +49,13 @@ Lo acercamos , aquí recomendamos la visión ORTOGONAL visto en la anterior pág
 Y ya lo tenemos nuestra primera pieza en forma de L
 
 ![](/assets/08.png)
+
+## Truco
+
+Para mover las piezas y que encajen perfectamente, un truco es bajar la precisión de la rejilla, abajo a la derecha:
+
+![](/assets/truco1.png)
+
+Y utilizar la vista ortogonal superior
+
+![](/assets/truco2.png)

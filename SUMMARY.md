@@ -16,6 +16,7 @@
 
 * [2.1 Ángulo de visión y encuadre](2diseno/diseno3d.md)
 * [2.2 Tapacámara parte I](2diseno/creando1.md)
+* [2.3 Tapacámara parte II](2diseno/creando2.md)
 
 ---
 
