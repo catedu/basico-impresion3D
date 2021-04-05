@@ -20,11 +20,11 @@ Puedes unirte a una clase con o sin cuenta
 
 Fuente: Captura de la web https://www.tinkercad.com/classrooms
 
-Con cuenta, si el profesor ha falicitado un código, para unirse a una clase simplemente entra en este apartado
+**Con cuenta** : Si el profesor te ha falicitado un código, para unirse a una clase simplemente entra en tu cuenta y entra en este apartado :
 
 ![](/assets/otros2.png)
 
-Sin cuenta, el profesor tiene que darte el enlace.
+**Sin cuenta**: El profesor tiene que darte el enlace.
 
 ### Únete a la clase de Aularagón
 
