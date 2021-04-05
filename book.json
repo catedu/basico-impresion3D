@@ -26,12 +26,12 @@
       "filename": "./FOOTER.md"
     },
     "edit-link": {
-      "base": "https://github.com/catedu/<nombre-del-repo>/edit/master",
+      "base": "https://github.com/catedu/basico-impresion3D/edit/master",
       "label": "Edita esta página"
     },
     "githubcontributors": {
       "githubOwner": "catedu",
-      "githubRepository": "<nombre-del-repo>"
+      "githubRepository": "basico-impresion3D"
     },
     "ga": {
       "token": "UA-135691041-2"
