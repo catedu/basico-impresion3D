@@ -11,3 +11,7 @@
 
 * Diseño paso a paso de una pieza sencilla
 * Explicación de su impresión en 3D
+
+>**tip**
+>Este curso se ha diseñado para poder ser aplicado independientemente de la impresora 3D que se haya adquirido.
+
