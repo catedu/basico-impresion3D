@@ -26,6 +26,8 @@
 ## 3.- IMPRESIÓN 3D
 
 * [3.1 Exportar STL](3cura/cura1.md)
+* [3.2 Programa CURA](3cura/cura2.md)
+* [3.1 Slice](3cura/slice.md)
 
 
 ---
