@@ -23,6 +23,11 @@
 * [2.7 Tapacámara parte V. Redondear las aristas interiores](2diseno/creando5.md)
 * [2.8 Tapacámara parte VI. Tunear](2diseno/creando6.md)
 
+## 3.- IMPRESIÓN 3D
+
+* [3.1 Exportar STL](3cura/cura1.md)
+
+
 ---
 
 * [Créditos](creditos.md)
