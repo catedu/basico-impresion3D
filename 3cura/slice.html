@@ -4,7 +4,7 @@
     <head>
         <meta charset="UTF-8">
         <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
-        <title>3.1 Slice · GitBook</title>
+        <title>3.3 Slice · GitBook</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
         <meta name="description" content="">
         <meta name="generator" content="GitBook 3.2.3">
@@ -69,7 +69,7 @@
     <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
 
     
-    <link rel="next" href="../creditos.html" />
+    <link rel="next" href="imprimir3D.html" />
     
     
     <link rel="prev" href="cura2.html" />
@@ -361,7 +361,66 @@
                 <a href="slice.html">
             
                     
-                    3.1 Slice
+                    3.3 Slice
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="4.4" data-path="imprimir3D.html">
+            
+                <a href="imprimir3D.html">
+            
+                    
+                    3.4 Impresión3D
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">4.- OPCIONES</li>
+        
+        
+    
+        <li class="chapter " data-level="5.1" data-path="../4sabermas/apagado.html">
+            
+                <a href="../4sabermas/apagado.html">
+            
+                    
+                    4.1 Apagado programado impresora3D
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="5.2" data-path="../4sabermas/soportes.html">
+            
+                <a href="../4sabermas/soportes.html">
+            
+                    
+                    4.2 Soportes en CURA
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="5.3" data-path="../4sabermas/impresoras.html">
+            
+                <a href="../4sabermas/impresoras.html">
+            
+                    
+                    4.3 Impresoras 3D
             
                 </a>
             
@@ -376,7 +435,7 @@
         
         
     
-        <li class="chapter " data-level="5.1" data-path="../creditos.html">
+        <li class="chapter " data-level="6.1" data-path="../creditos.html">
             
                 <a href="../creditos.html">
             
@@ -419,7 +478,7 @@
     <!-- Title -->
     <h1>
         <i class="fa fa-circle-o-notch fa-spin"></i>
-        <a href=".." >3.1 Slice</a>
+        <a href=".." >3.3 Slice</a>
     </h1>
 </div>
 
@@ -434,19 +493,30 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="slice">Slice</h1>
-<p>La impresora 3D lee ficheros gcode que lo que contiene es informaci&#xF3;n de c&#xF3;mo se tiene que mover el cabezal en cada capa o rebanada (Slice = rebanada)</p>
-<p>Antes de dar a <strong>SLICE</strong> tenemos que ver que no quede nada importante &quot;en el aire&quot;, para ello nos ponemos en un punto de vista mirando de abajo a arriba y CURA nos destaca en rojo lo que queda &quot;al aire&quot; :</p>
+                                <h1 id="slice">SLICE</h1>
+<h2 id="&#xBF;qu&#xE9;-es">&#xBF;Qu&#xE9; es?</h2>
+<p>La impresora 3D lee ficheros <strong>gcode</strong> que lo que contiene es informaci&#xF3;n de c&#xF3;mo se tiene que mover el cabezal en cada capa o rebanada (Slice = rebanada)</p>
+<h2 id="antes-de-dar-a-slice">Antes de dar a Slice</h2>
+<p>Tenemos que ver que no quede nada importante &quot;en el aire&quot;, para ello nos ponemos en un punto de vista mirando de abajo a arriba y CURA nos destaca en rojo lo que queda &quot;al aire&quot; :</p>
 <p><img src="../assets/cura6.jpg" alt=""></p>
 <p>NO es relevante y esos peque&#xF1;os trozos los puede hacer sin problema</p>
-<p>La parte azul indica que est&#xE1; pegado a la base, pero vemos que las puntas redondeadas no, acerc&#xE1;ndonos vemos que no he sido preciso en el dise&#xF1;o (a lo mejor t&#xFA; s&#xED;)</p>
+<p>La parte azul indica que est&#xE1; pegado a la base (importante para que la pieza no se nos despegue durante el proceso de impresi&#xF3;n), pero vemos que las puntas redondeadas no, acerc&#xE1;ndonos vemos que no he sido preciso en el dise&#xF1;o (a lo mejor t&#xFA; s&#xED;)</p>
 <p><img src="../assets/cura5.jpg" alt=""></p>
-<div class="alert alert-danger hints-alert"><div class="hints-icon"><i class="fa fa fa-exclamation-circle"></i></div><div class="hints-container">
-<p>
-&#xBF;Cuanto se puede dejar en el aire?</p>
-</div></div>
-<p></p><div id="page-footer" class="localized-footer"><hr><p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"></a><br><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">IMPRESION B&#xC1;SICA 3D</span> por <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Javier Quintana Peir&#xF3;</span> bajo licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional License</a>.</p>
-</div><p></p>
+<p>Esto pasa por no usar la herramienta <strong>Alinear</strong> en Tinkercad, seleccionando los dos objetos la U y los semicilindros :</p>
+<p><img src="../assets/cura7.jpg" alt=""></p>
+<p>Esto de las &quot;partes en el aire&quot; lo trataremos en el tema de <strong>SOPORTES</strong>.</p>
+<h2 id="procedemos-a-slice">Procedemos a Slice</h2>
+<p>Ponemos una tarjeta microSD en nuestro ordenador, seguramente necesitaremos un adaptador :</p>
+<p><img src="../assets/sd-card.png" alt=""></p>
+<p>Icono de <a href="https://www.flaticon.com/" target="_blank">Flaticon</a></p>
+<p>Procedemos a pulsar en el bot&#xF3;n Slice :</p>
+<p><img src="../assets/cura8.jpg" alt=""></p>
+<p>Y nos dice luego cuanto va a tardar, pulsamos en grabar en la tarjeta (Removable)</p>
+<p><img src="../assets/cura9.jpg" alt=""></p>
+<p>Podemos pues a pulsar a Expulsar (Eject) pues ya a grabado el fichero &quot;CE3-Taca-camara-web.gcode&quot;</p>
+<p><img src="../assets/cura10.jpg" alt=""></p>
+<p><div id="page-footer" class="localized-footer"><hr><p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"></a><br><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">IMPRESION B&#xC1;SICA 3D</span> por <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Javier Quintana Peir&#xF3;</span> bajo licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional License</a>.</p>
+</div></p>
 
                                 
                                 </section>
@@ -479,7 +549,7 @@
                 </a>
                 
                 
-                <a href="../creditos.html" class="navigation navigation-next " aria-label="Next page: Créditos">
+                <a href="imprimir3D.html" class="navigation navigation-next " aria-label="Next page: 3.4 Impresión3D">
                     <i class="fa fa-angle-right"></i>
                 </a>
                 
@@ -490,7 +560,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"3.1 Slice","level":"4.3","depth":1,"next":{"title":"Créditos","level":"5.1","depth":1,"path":"creditos.md","ref":"creditos.md","articles":[]},"previous":{"title":"3.2 Programa CURA","level":"4.2","depth":1,"path":"3cura/cura2.md","ref":"3cura/cura2.md","articles":[]},"dir":"ltr"},"config":{"plugins":["youtube","accordion","styled-blockquotes","localized-footer","edit-link","githubcontributors","ga"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"youtube":{},"accordion":{},"search":{},"styled-blockquotes":{},"localized-footer":{"filename":"./FOOTER.md","hline":true},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"ga":{"configuration":"auto","token":"UA-135691041-2"},"githubcontributors":{"contributorWidth":"300px","githubOwner":"catedu","githubRepository":"basico-impresion3D"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"edit-link":{"label":"Edita esta página","base":"https://github.com/catedu/basico-impresion3D/edit/master"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{"title":"IMPRESION BÁSICA 3D","authors":["Javier Quintana Peiró"],"collaborators":[{"name":"","edited":""}]},"language":"es","gitbook":"*"},"file":{"path":"3cura/slice.md","mtime":"2021-04-06T19:18:55.598Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-04-06T19:19:37.002Z"},"basePath":"..","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"3.3 Slice","level":"4.3","depth":1,"next":{"title":"3.4 Impresión3D","level":"4.4","depth":1,"path":"3cura/imprimir3D.md","ref":"3cura/imprimir3D.md","articles":[]},"previous":{"title":"3.2 Programa CURA","level":"4.2","depth":1,"path":"3cura/cura2.md","ref":"3cura/cura2.md","articles":[]},"dir":"ltr"},"config":{"plugins":["youtube","accordion","styled-blockquotes","localized-footer","edit-link","githubcontributors","ga"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"youtube":{},"accordion":{},"search":{},"styled-blockquotes":{},"localized-footer":{"filename":"./FOOTER.md","hline":true},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"ga":{"configuration":"auto","token":"UA-135691041-2"},"githubcontributors":{"contributorWidth":"300px","githubOwner":"catedu","githubRepository":"basico-impresion3D"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"edit-link":{"label":"Edita esta página","base":"https://github.com/catedu/basico-impresion3D/edit/master"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{"title":"IMPRESION BÁSICA 3D","authors":["Javier Quintana Peiró"],"collaborators":[{"name":"","edited":""}]},"language":"es","gitbook":"*"},"file":{"path":"3cura/slice.md","mtime":"2021-04-07T09:26:39.483Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-04-07T09:27:19.998Z"},"basePath":"..","book":{"language":""}});
         });
     </script>
 </div>
