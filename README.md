@@ -1,4 +1,4 @@
-# IMPRESIÓN BÁSICA EN 3D CON TINKERCAD
+# IMPRESIÓN BÁSICA EN 3D CON TINKERCAD Y CURA
 
 ![](/assets/resultado.jpg)
 

@@ -10,21 +10,21 @@ Para generar soporte tenemos que activarlo aquí :
 
 En este caso todo aquello que supera 45ª le generará soporte.
 
-No obstante puede ser que nos pasemos, y la pieza resultante resulte imposible de quitar los soportes, en este objeto hay escondido un "Mandalorian" imposible de destapar y al arrancarlo de la cama se rompió parte de la pieza por tanto soporte :
+No obstante puede ser que nos **pasemos**, y la pieza resultante resulte imposible de quitar los soportes. En este objeto hay escondido un "Mandalorian" imposible de destapar y al arrancarlo de la cama se rompió parte de la pieza por tanto soporte :
 
 ![](/assets/cura20.jpg)
 
-Una solución consiste en subir con esos grados, por ejemplo hasta 80º para que no genere tanto soporte.
+Una solución consiste en subir los grados de soporte, por ejemplo hasta 80º para que no genere tanto soporte.
 
-Si hay "puentes" aguanta bien el hilo, en esta pieza se imprimió estos puentes de 5cm sin ningún problema:
+Si hay "puentes" aguanta bien el hilo. En esta pieza se imprimió estos puentes de 5cm de largo sin ningún soporte y sin ningún problema:
 
 ![](/assets/cura19.jpg)
 
-Otra manera **crear puentes** utilizando un pluging :
+Si no tienes puentes : **Crear tú los puentes** utilizando un pluging :
 
 ## Pluging Support
 
-Este pluging Custom Supports viene muy bien: Ir a Marketplace, buscarlo e instalarlo. Aparecerá un nuevo botón con el icono de escalera :
+Este pluging _Custom Supports_ viene muy bien: Ir a _Marketplace_, buscarlo e instalarlo. Aparecerá un nuevo botón con el icono de escalera :
 
 ![](/assets/cura15.jpg)
 

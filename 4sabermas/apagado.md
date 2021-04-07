@@ -2,11 +2,11 @@
 
 Muchas impresoras no tienen una función de apagado programado, y en algunas piezas complejas, la impresión dura mucho por lo que no podemos estar al tanto de apagarlas.
 
-Una solución fácil es incorporar un temporizador en el enchufe, como en el slice nos dice el tiempo que va a durar:
+Una solución fácil es incorporar un temporizador en el enchufe, esto se puede hacer fácilmente pues en el slice nos dice el tiempo que va a durar:
 
 ![](/assets/cura9.jpg)
 
-Podemos programar el temporizador con un tiempo superior al marcado :
+Podemos programar el temporizador con un tiempo **superior** al marcado :
 
 ![](/assets/cura11.jpg)
 
