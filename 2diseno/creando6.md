@@ -29,4 +29,6 @@ De esta manera, al realizar dos agrupaciones, ésta y la del capítulo anterior.
 
 ![](/assets/35.jpg)
 
-De esta manera podemos seleccionar el texto y poner otro texto y volver a agrupar, o quitarlo...
+De esta manera podemos seleccionar el texto y poner otro texto y volver a agrupar, o quitarlo... aquí he puesto el símbolo de Catedu :
+
+![](/assets/35-5.jpg)
