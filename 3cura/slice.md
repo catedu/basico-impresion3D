@@ -40,6 +40,6 @@ Y nos dice luego cuanto va a tardar, pulsamos en grabar en la tarjeta (Removable
 
 ![](/assets/cura9.jpg)
 
-Podemos pues a pulsar a Expulsar (Eject) pues ya a grabado el fichero "CE3-Taca-camara-web.gcode"
+Podemos pues a pulsar a Expulsar (Eject) pues ya ha grabado el fichero "CE3-Taca-camara-web.gcode"
 
 ![](/assets/cura10.jpg)
