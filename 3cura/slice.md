@@ -20,6 +20,10 @@ Esto pasa por no usar la herramienta **Alinear** en Tinkercad, seleccionando los
 
 Esto de las "partes en el aire" lo trataremos en el tema de **SOPORTES**.
 
+Como es una pieza que no tendrá problemas de adhesión yo suelo quitar el [Skirt Brime o Raft](https://filament2print.com/es/blog/23_skirt-brim-raft.html) que sale por defecto.
+
+![](/assets/cura14.jpg)
+
 ## Procedemos a Slice
 
 Ponemos una tarjeta microSD en nuestro ordenador, seguramente necesitaremos un adaptador :
