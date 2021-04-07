@@ -15,8 +15,8 @@ Una vez instalado podemos abrir nuestro fichero instalado
 
 1. Abre el tapacámaras al plano de trabajo de CURA
 1. Practica la visualización espacial
-  1. Con el **BOTON DERECHO DEL RATÓN** muévelo desde direrentes ángulos
-  1. Con **LA RUEDA DEL RATÓN** haz zoom para alejar o acercar
-  1. Aprentando **LA TECLA SHIFT Y EL BOTON IZQUIERDO DEL RATÓN** muéve tu encuadre
+  1. Con el **BOTON DERECHO DEL RATÓN** muévelo desde diferentes **ángulos**.
+  1. Con **LA RUEDA DEL RATÓN** haz **zoom** para alejar o acercar
+  1. Aprentando **LA TECLA SHIFT Y EL BOTON IZQUIERDO DEL RATÓN** muéve tu **encuadre**.
 
 {% youtube %}https://youtu.be/OatOjUn7rrQ{% endyoutube %}

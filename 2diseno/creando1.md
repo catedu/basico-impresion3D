@@ -1,7 +1,7 @@
 # Creando una tapa de la cámara web de un portátil
 
 >**danger**
->La pieza está dimensionada para un grosor de pantalla de 4-5mm, si tu pantalla es más fina o más gruesa cambia las dimensiones marcadas con el símbolo  🧐
+>La pieza está dimensionada para un grosor de pantalla de 4-5mm y una anchura de borde de 10mm, si tu pantalla es más fina o más gruesa o tiene un borde más ancho o estrecho, cambia las dimensiones marcadas con el símbolo  🧐
 
 ## Parte I : Hacer una L
 
@@ -9,7 +9,7 @@ Vamos a empezar por la U de la pieza, pero primero una L:
 
 ![](/assets/resultado.jpg)
 
-Arrastramos un cubo al plano de trabajo, y lo modicicamos para que tenga aproximadamente 15x2 mm de base, pinchando en los puntos que dice la imagen :
+Arrastramos un cubo al plano de trabajo, y lo modicicamos para que tenga aproximadamente 15x2 mm de base 🧐, pinchando en los puntos que dice la imagen :
 
 ![](/assets/01.png)
 
@@ -50,3 +50,11 @@ Para mover las piezas y que encajen perfectamente, un truco es bajar la precisi�
 Y utilizar la vista ortogonal superior
 
 ![](/assets/truco2.png)
+
+Luego es conveniente utilizar la herramienta de alinear. Para que se active tienes que seleccionar los dos objetos :
+
+![](/assets/cura7.jpg)
+
+Para seleccionar dos objetos:
+ * Con el ratón selecciona los dos objetos simplemente tocándolos (no tiene que estar por completo el objeto dentro del recuadro de arrastre)
+ * Ten pulsado la tecla Shift y haz clicks sobre los objetos que quieres seleccionar.

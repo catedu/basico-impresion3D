@@ -13,5 +13,4 @@
 * Explicación de su impresión en 3D
 
 >**tip**
->Este curso se ha diseñado para poder ser aplicado independientemente de la impresora 3D que se haya adquirido.
-
+>Este curso se ha diseñado al mínimo, para poder ser aplicar el diseño 3D en el aula, independientemente de la impresora 3D y a un nivel básico sin conocimientos previos por parte del docente.

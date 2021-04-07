@@ -27,4 +27,4 @@ Aceptas las condiciones y ya esás registrado.
 
 Los estudiantes pueden unirse a una clase que has creado, ver [clases](https://catedu.github.io/basico-impresion3D/1tinkercad/clases.html) **sin necesidad de registrarse** por lo tanto válido para menores de 16 años.
 
-Para mayores de 16 años, si tienen correo electrónico pueden abrir una cuenta personal e unirse a tus clases igualmente.
+Para mayores de 16 años, si tienen correo electrónico, pueden abrir una cuenta personal y unirse a tus clases igualmente.

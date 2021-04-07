@@ -1,7 +1,7 @@
 # Creando una tapa de la cámara web de un portátil
 ## Parte III : Redondear puntas agrupando objetos sólidos curvos
 
-Ahora copiamos vamos a redondear esta pinza pues a quedado algo "soviética". Primero las entradas para que no nos ralle nuestra pantalla, le pondremos una punta redondeada. Para ello arrastramos un medio cilindro:
+Ahora vamos a redondear esta pinza pues a quedado algo "soviética". Primero las entradas para que no nos ralle nuestra pantalla, le pondremos una punta redondeada. Para ello arrastramos un medio cilindro:
 
 ![](/assets/14.png)
 

@@ -28,9 +28,11 @@ Fuente: Captura de la web https://www.tinkercad.com/classrooms
 
 ### Únete a la clase de Aularagón
 
-De esta manera podemos ver los diseños de nuestros compañeros, y ellos ven nuestros diseños. Puedes salir de la clase cuando quieras.
+De esta manera podemos ver los diseños de tus compañeros de este curso, y ellos ven nuestros diseños. Puedes salir de la clase cuando quieras.
 
 Aunque tengas pefil de profesor, **los profesores también podemos unirnos a una clase**
 
 * Entra con este código 4CHIGJ4B3FZ6
 * O con este enlace https://www.tinkercad.com/joinclass/4CHIGJ4B3FZ6
+
+¿A qué esperas en pinchar en el enlace ?

@@ -1,7 +1,7 @@
 # SLICE
 ## ¿Qué es?
 
-La impresora 3D lee ficheros **gcode** que lo que contiene es información de cómo se tiene que mover el cabezal en cada capa o rebanada (Slice = rebanada)
+La impresora 3D lee ficheros **gcode** que lo que contiene es información de cómo se tiene que mover el cabezal en cada capa o rebanada (Slice = rebanada), aparte de otros factores: temperatura del extrusor, ventilación ...
 
 ## Antes de dar a Slice
 Tenemos que ver que no quede nada importante "en el aire", para ello nos ponemos en un punto de vista mirando de abajo a arriba y CURA nos destaca en rojo lo que queda "al aire" :

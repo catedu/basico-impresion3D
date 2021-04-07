@@ -9,8 +9,8 @@
 * [1.3 Simulación electrónica](1tinkercad/simulacionelectronica.md)
 * [1.4 Bloques de código](1tinkercad/codigo.md)
 * [1.5 Clases](1tinkercad/clases.md)
-* [1.5 Otras opciones](1tinkercad/otros.md)
-* [1.6 Empecemos: crea tu usuario](1tinkercad/perfil.md)
+* [1.6 Lecciones](1tinkercad/otros.md)
+* [1.7 Empecemos: crea tu usuario](1tinkercad/perfil.md)
 
 ## 2.- DISEÑO 3D EN TINKERCAD
 
