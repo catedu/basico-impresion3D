@@ -2,7 +2,7 @@
 
 * [Introducción](README.md)
 
-## 1.-TINKERCAD 1
+## 1.-TINKERCAD
 
 * [1.1. Qué es](1tinkercad/tinkercad.md)
 * [1.2. Programa de diseño](1tinkercad/diseno.md)
@@ -12,7 +12,7 @@
 * [1.5 Otras opciones](1tinkercad/otros.md)
 * [1.6 Empecemos: crea tu usuario](1tinkercad/perfil.md)
 
-## 2.- DISEÑO 3D
+## 2.- DISEÑO 3D EN TINKERCAD
 
 * [2.1 Ángulo de visión y encuadre](2diseno/diseno3d.md)
 * [2.2 Tapacámara](2diseno/tapacamara.md)
@@ -23,7 +23,7 @@
 * [2.7 Tapacámara parte V. Redondear las aristas interiores](2diseno/creando5.md)
 * [2.8 Tapacámara parte VI. Tunear](2diseno/creando6.md)
 
-## 3.- IMPRESIÓN 3D
+## 3.- IMPRESIÓN 3D CON CURA
 
 * [3.1 Exportar STL](3cura/cura1.md)
 * [3.2 Programa CURA](3cura/cura2.md)
@@ -35,8 +35,6 @@
 * [4.1 Apagado programado impresora3D](4sabermas/apagado.md)
 * [4.2 Soportes en CURA](4sabermas/soportes.md)
 * [4.3 Impresoras 3D](4sabermas/impresoras.md)
-
-
 
 ---
 
