@@ -24,18 +24,18 @@ Otra manera **crear puentes** utilizando un pluging :
 
 ## Pluging Support
 
-Recomiendo instalar en CURA el pluging Custom Supports: Ir a Marketplace, buscarlo e instalarlo. Aparecerá un nuevo botón con el icono de escalera :
+Este pluging Custom Supports viene muy bien: Ir a Marketplace, buscarlo e instalarlo. Aparecerá un nuevo botón con el icono de escalera :
 
 ![](/assets/cura15.jpg)
 
-En esta pieza de Joda, esa mano es imposible de realizar. Hacemos click en la pieza, luego en el botón del **Custom Supports** :
+En esta pieza de Joda, esa mano peligra que genere hilos colgando. Hacemos click en la pieza, luego en el botón del **Custom Supports** :
 
 ![](/assets/17.jpg)
 
-Y hacemos click **en el sitio donde queremos
+Y hacemos click **en el sitio donde queramos generar un soporte** :
 
 ![](/assets/cura18.jpg)
 
-Por supuesto esto requiere práctica prueba y error. Seguramente hay que poner más soportes en este objeto, pero sólo era para visualizarlo. Para saber más sobre soportes en CURA podemos ver este [video](https://www.youtube.com/watch?v=CQh-pdQI7jk) :
+Por supuesto esto requiere práctica, prueba y error. Seguramente hay que poner más soportes en este objeto, pero sólo era para visualizarlo. Para saber más sobre soportes en CURA podemos ver este [video](https://www.youtube.com/watch?v=CQh-pdQI7jk) :
 
 {% youtube %}https://www.youtube.com/watch?v=CQh-pdQI7jk{% endyoutube %}

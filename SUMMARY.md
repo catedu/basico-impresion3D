@@ -30,7 +30,7 @@
 * [3.3 Slice](3cura/slice.md)
 * [3.4 Impresión3D](3cura/imprimir3D.md)
 
-## 4.- OPCIONES
+## 4.- APRENDIENDO MÁS
 
 * [4.1 Apagado programado impresora3D](4sabermas/apagado.md)
 * [4.2 Soportes en CURA](4sabermas/soportes.md)
