@@ -1,6 +1,6 @@
 # Creando una tapa de la cámara web de un portátil
 
-No hay que ser paranoicos tapando la cámara web del portátil, pero lo cierto es que hasta Mark Zuckerber la tiene tapada:
+No hay que ser paranoicos tapando la cámara web del portátil, pero lo cierto es que hasta Mark Zuckerberg la tiene tapada:
 
 ![](/assets/creando1.png)
 
