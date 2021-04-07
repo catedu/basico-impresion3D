@@ -20,7 +20,7 @@ Si hay "puentes" aguanta bien el hilo. En esta pieza se imprimió estos puentes 
 
 ![](/assets/cura19.jpg)
 
-Si no tienes puentes : **Crear tú los puentes** utilizando un pluging :
+Si no tienes puentes : **Crea tú los puentes** utilizando un pluging :
 
 ## Pluging Support
 

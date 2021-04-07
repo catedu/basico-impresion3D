@@ -12,7 +12,7 @@ Podemos programar el temporizador con un tiempo **superior** al marcado :
 
 ## Otra opción más sofisticada:
 
-Consiste en hacer streaming, utilizando una webcam de vigilancia comercial o en este caso una rasperry con webcam. Para ello se ha seguido los pasos de este [tutorial](https://catedu.github.io/rover-marciano-alphabot/8-camara/81-que-vamos-a-hacer.html)
+Consiste en hacer streaming, utilizando una webcam de vigilancia comercial o en este caso una rasperry con webcam. Para ello se ha seguido los pasos del capítulo 8 de este [tutorial](https://catedu.github.io/rover-marciano-alphabot/8-camara/81-que-vamos-a-hacer.html)
 
 ![](/assets/cura12.jpg)
 
