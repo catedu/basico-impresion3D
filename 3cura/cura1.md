@@ -7,6 +7,8 @@ Una vez diseñado, podemos imprimir nuestro objeto EXPORTANDOLO a un fichero pre
 
 Pues es la manera habitual. Existen impresoras que están conectadas por red o por USB y **sí** que se puede enviar diréctamente a la impresora (pestaña Impresión 3D) pero lo normal es que no sea así (y no es necesario que una impresora 3D esté conectada, esto no es una impresora normal).
 
+Si quieres saber más te recomiendo esta página de [Luis Llamas](https://www.luisllamas.es/como-funciona-una-impresora-3d-fff/)
+
 En resumen, es mejor pasar por un programa especializado en impresión 3D.
 
 En nuestro caso utilizamos el programa de impresoras 3D de software libre **CURA** https://ultimaker.com/es/software/ultimaker-cura
