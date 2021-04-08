@@ -20,7 +20,7 @@ Puedes unirte a una clase con o sin cuenta
 
 Fuente: Captura de la web https://www.tinkercad.com/classrooms
 
-**Con cuenta** : Si el profesor te ha falicitado un código, para unirse a una clase simplemente entra en tu cuenta y entra en este apartado :
+**Con cuenta** : Si el profesor te ha facilitado un código, para unirse a una clase simplemente entra en tu cuenta y entra en este apartado :
 
 ![](/assets/otros2.png)
 
