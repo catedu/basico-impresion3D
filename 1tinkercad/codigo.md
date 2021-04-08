@@ -2,7 +2,7 @@
 
 ![](/assets/bloquescodigo.png)
 
-Los bloques de código nos permiten diseñar objetos 3D utilando un lenguaje sencillo gráfico.
+Los bloques de código nos permiten diseñar objetos 3D utilizando un lenguaje sencillo gráfico.
 
 * Se practica el pensamiento computacional.
 * Facilita la creación de objetos 3D que siguen un patrón.
