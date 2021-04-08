@@ -1,6 +1,6 @@
 # Empecemos: Crea tu perfil de profesor.
 
-Entramos en tinkercad.com y en **Unete** creamos una cuenta
+Entramos en tinkercad.com y en **Únete** creamos una cuenta
 
 ![](/assets/perfil1.png)
 
