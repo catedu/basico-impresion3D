@@ -21,7 +21,7 @@ Una vez instalado podemos abrir nuestro fichero instalado
 
 {% youtube %}https://youtu.be/OatOjUn7rrQ{% endyoutube %}
 
-## Algunas posibilidades de cura3
+## Algunas posibilidades de cura
 
 Con este botón podemos desplazar la pieza seleccionada en los tres ejes
 
@@ -34,6 +34,16 @@ Podemos cambiar el tamaño
 Podemos girarlo en cualquier plano de los tres ejes, incluso seleccionar qué cara es la que tiene que ir pegada a la cama :
 
 ![](/assets/cura23.jpg)
+
+De esta manera podemos colocar la pieza en la mejor posición que no haga falta soporte:
+
+
+![](/assets/cura27.jpg)
+
+1. No adecuada! Sería necesario poner soporte.
+1. Idem, y además poca fijación a la cama.
+1. Tampoco adecuada. Sería necesario soporte.
+1. Puede ser adecuada pero tiene demasiado contacto con la cama, y esa capa es la que peor se imprime.
 
 Podemos hacer una imagen especular de la pieza :
 
