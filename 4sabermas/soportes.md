@@ -14,7 +14,7 @@ No obstante puede ser que nos **pasemos**, y la pieza resultante resulte imposib
 
 ![](/assets/cura20.jpg)
 
-Una solución consiste en subir los grados de soporte, por ejemplo hasta 80º para que no genere tanto soporte.
+Una solución consiste en subir los grados de _Support Overhang Angle_, por ejemplo hasta 80º para que no genere tanto soporte.
 
 Si hay "puentes" aguanta bien el hilo. En esta pieza se imprimió estos puentes de 5cm de largo sin ningún soporte y sin ningún problema:
 

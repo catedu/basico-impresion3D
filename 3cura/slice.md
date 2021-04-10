@@ -32,7 +32,7 @@ Ponemos una tarjeta microSD en nuestro ordenador, seguramente necesitaremos un a
 
 Icono de [Flaticon](https://www.flaticon.com/)
 
-Procedemos a pulsar en el botón Slice :
+Procedemos a pulsar en el botón **Slice** :
 
 ![](/assets/cura8.jpg)
 
@@ -40,6 +40,6 @@ Y nos dice luego cuanto va a tardar, pulsamos en grabar en la tarjeta (Removable
 
 ![](/assets/cura9.jpg)
 
-Podemos pues a pulsar a Expulsar (Eject) pues ya ha grabado el fichero "CE3-Taca-camara-web.gcode"
+Podemos pues expulsar la tarjeta microSD (Eject) pues ya ha grabado el fichero "CE3-Taca-camara-web.gcode"
 
 ![](/assets/cura10.jpg)
