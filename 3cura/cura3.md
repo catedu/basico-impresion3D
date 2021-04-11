@@ -1,4 +1,4 @@
-# Algunas posibilidades de cura
+# Algunas posibilidades de Cura
 
 Con este botón podemos desplazar la pieza seleccionada en los tres ejes
 
@@ -12,7 +12,7 @@ Podemos girarlo en cualquier plano de los tres ejes, incluso seleccionar qué ca
 
 ![](/assets/cura23.jpg)
 
-De esta manera podemos colocar la pieza en la mejor posición que no haga falta soporte:
+De esta manera podemos colocar la pieza en la mejor posición que no haga falta soporte. En esta pieza, estas posiciones no son adecuadas:
 
 
 ![](/assets/cura27.jpg)
