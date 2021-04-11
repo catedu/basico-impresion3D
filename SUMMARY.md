@@ -27,14 +27,15 @@
 
 * [3.1 Exportar STL](3cura/cura1.md)
 * [3.2 Programa CURA](3cura/cura2.md)
-* [3.3 Slice](3cura/slice.md)
-* [3.4 Impresión3D](3cura/imprimir3D.md)
+* [3.3 Opciones CURA](3cura/cura3.md)
+* [3.4 Soportes en CURA](4sabermas/soportes.md)
 
-## 4.- APRENDIENDO MÁS
+## 4.- IMPRIMIENDO
 
-* [4.1 Apagado programado impresora3D](4sabermas/apagado.md)
-* [4.2 Soportes en CURA](4sabermas/soportes.md)
-* [4.3 Impresoras 3D](4sabermas/impresoras.md)
+* [4.1 Slice](3cura/slice.md)
+* [4.2 Impresión3D](3cura/imprimir3D.md)
+* [4.3 Apagado programado impresora3D](4sabermas/apagado.md)
+* [4.4 Saber más](4sabermas/impresoras.md)
 
 ---
 
